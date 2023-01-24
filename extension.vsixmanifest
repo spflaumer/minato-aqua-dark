@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="minatoaqua" Version="0.1.1" Publisher="undefined" />
+			<Identity Language="en-US" Id="minatoaqua" Version="0.1.2" Publisher="spflaumer" />
 			<DisplayName>Minato Aqua Dark</DisplayName>
 			<Description xml:space="preserve">A Dark color theme made using the color palette of Minato Aqua.</Description>
 			<Tags>theme,color-theme,__web_extension</Tags>
